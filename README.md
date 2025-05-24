@@ -14,11 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=codesoumya2006&label=Profile%20views&color=0e75b6&style=flat" alt="codesoumya2006" />
 </p>
 
-- 🌱 I’m currently learning **Python, JavaScript, C++**  
-- 💬 Ask me about **HTML, CSS, JAVA**  
-- 📫 Reach me at **soumyadeepdas242006@gmail.com**  
-- ⚡ Fun fact: **I am Funny**
-
+```python
+Name = "Soumyadeep Das Adhikary"
+Interests = ["Coding", "Problem Solving", "Canve Designing", "Photography"]
+Languages = ["C", "JAVA", "Python", "HTML", "CSS", "JavaScript", "React.Js"]
+```
 ---
 
 <h3 align="left">Connect with me:</h3>
