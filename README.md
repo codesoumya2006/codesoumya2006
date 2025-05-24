@@ -6,11 +6,6 @@
 <h1 align="center">Hi 👋, I'm codesoumya2006</h1>
 <h3 align="center">"Passionate Frontend Developer, Content Writer & Tech Enthusiast"</h3>
 
-<!-- Lottie-like Developer Animation (GIF fallback for GitHub) -->
-<p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" alt="Lottie Dev Animation" width="350" />
-</p>
-
 <!-- Right-side Coding GIF -->
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
