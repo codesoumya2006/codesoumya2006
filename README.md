@@ -7,7 +7,7 @@
 <h3 align="center">"Passionate Frontend Developer, Content Writer & Tech Enthusiast"</h3>
 
 <!-- Right-side Coding GIF -->
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
+<img align="right" alt="coding"  height="290" width="300" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
 
 <!-- Profile Views -->
 <p align="left">
