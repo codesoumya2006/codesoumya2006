@@ -26,6 +26,8 @@ Languages = ["C", "JAVA", "Python", "HTML", "CSS", "JavaScript", "React.Js"]
   <a href="https://codepen.io/soumyadeep_das_adhikary" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/warm_seed_92" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" height="30" width="40" /></a>
   <a href="https://leetcode.com/soumyadeep321" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/soumyadeepdas241" target="_blank" title="HackerRank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" height="40" style="object-fit: contain;"/>
+  </a>
 </p>
 
 ---
