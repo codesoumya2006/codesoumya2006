@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif)]
+[![MasterHead](https://media.tenor.com/UrnPTaqPEzkAAAAd/developer.gif)]
 <h1 align="center">Hi 👋, I'm codesoumya2006</h1>
 <h3 align="center">"Passionate Frontend Developer, Content Writer & Tech Enthusiast"</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/41/7e/be/417ebee986aec41629278b1e04cfbfe9.gif">
