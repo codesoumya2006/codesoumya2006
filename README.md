@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/8391493/205162876-565ca6f5-391f-4167-9752-5aa737dc4b72.gif" alt="3D Developer Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm codesoumya2006</h1>
+<h1 align="center">Hi 👋, I'm Soumyadeep Das Adhikary</h1>
 <h3 align="center">"Passionate Frontend Developer, Content Writer & Tech Enthusiast"</h3>
 
 <!-- Right-side Coding GIF -->
