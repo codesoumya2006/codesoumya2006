@@ -46,6 +46,19 @@ Languages = ["C", "JAVA", "Python", "HTML", "CSS", "JavaScript", "React.Js"]
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
 </p>
 
+
+---
+### Badges
+<p align="left">
+  <img src="https://github.com/codesoumya2006/codesoumya2006/blob/main/Badages/lvl0-human0.png" width="100" height="100" alt="Badge1"/>
+  <img src="https://github.com/codesoumya2006/codesoumya2006/blob/main/Badages/lvl1-human.png" width="100" height="100" alt="Badge2"/>
+  <img src="https://github.com/codesoumya2006/codesoumya2006/blob/main/Badages/Hacktorbofest3.png" width="100" height="100" alt="Badge3"/>
+  <img src="https://github.com/codesoumya2006/codesoumya2006/blob/main/Badages/97ced761-9ae0-44fe-bc73-3411cb44d6e8.png" width="100" height="100" alt="Badge4"/>
+  <img src="https://github.com/Spandan2106/Spandan2106/blob/main/WhatsApp%20Image%202025-10-16%20at%2020.52.09_f3a39971.jpg?raw=true" width="100" height="100" alt="Badge3"/>
+  <img src = "https://github.com/codesoumya2006/codesoumya2006/blob/main/Badages/swoc%20ticket.jpg" width = "300" height = "150">
+</p>
+
+
 ---
 
 <h3 align="center">📊 GitHub Stats</h3>
